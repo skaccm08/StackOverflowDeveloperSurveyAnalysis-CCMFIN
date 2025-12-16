@@ -1,1 +1,5 @@
+The dataset used for this study is ~155mb, and therefore cannot be uploaded to GitHub,
 
+The original dataset is downloadable here: https://survey.stackoverflow.co/
+
+Be sure to download the TWENTY-TWENTY-FOUR (2024), version of the CSV, then extract the filename: "survey_results_public" into notebook
