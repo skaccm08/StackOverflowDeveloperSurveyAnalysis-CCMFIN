@@ -12,3 +12,10 @@ Questions Asked
 - Q4: Which languages have the strongest overlap with high job satisfaction?
 
 Dataset Source Link: https://survey.stackoverflow.co/
+
+Folders:
+- Part2: Inital dataset exploration phase
+- Part3,4,5: (FINAL NOTEBOOK); Cleaning, Analysis, Plotting phase
+- PresentationResources: Link to live google slides
+- dataset: Link to large dataset (155mb, cannot put on github)
+- Summary: Link to 1-pager summary, with pdf version
